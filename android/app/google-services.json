@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "326674692268",
+    "firebase_url": "https://medichat-2029e-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "medichat-2029e",
+    "storage_bucket": "medichat-2029e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326674692268:android:f67a4b56daea60be4d8709",
+        "android_client_info": {
+          "package_name": "com.example.fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGfgqDPGm-CZjkN0r6AWmlJO7ipsQHzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
